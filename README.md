@@ -1,2 +1,1 @@
-# exampleOfAndroidSourceSH
-exampleOfAndroidSourceSH
+# exampleOfAndroidSourceS안드로이드화면은어떻게들어가나요
